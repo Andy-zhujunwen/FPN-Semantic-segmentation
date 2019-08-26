@@ -40,9 +40,9 @@ if you want to inference the pciture you want,put the picture in the project pat
 sh text.sh
 ```
 input:
-[!image]https://github.com/Andy-zhujunwen/FPN-Semantic-segmentation/blob/master/FPN-Seg/s1.jpeg
+![image]https://github.com/Andy-zhujunwen/FPN-Semantic-segmentation/blob/master/FPN-Seg/s1.jpeg
 output:
-[!image]https://github.com/Andy-zhujunwen/FPN-Semantic-segmentation/blob/master/FPN-Seg/testjpg.jpeg
+![image]https://github.com/Andy-zhujunwen/FPN-Semantic-segmentation/blob/master/FPN-Seg/testjpg.jpeg
 
 ## Acknowledgment
 [FCN-pytorch](https://github.com/pochih/FCN-pytorch)
