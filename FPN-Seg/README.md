@@ -34,10 +34,15 @@ If you want to plot the color semantic segmentation prediction of the test input
 ```
 python test.py --dataset Cityscapes --exp_dir /path/to/experiment_x --plot True
 ```
+## Inference
 if you want to inference the pciture you want,put the picture in the project path(the same directory with train_val.py),run:
 ```
 sh text.sh
 ```
+input:
+[!image]https://github.com/Andy-zhujunwen/FPN-Semantic-segmentation/blob/master/FPN-Seg/s1.jpeg
+output:
+[!image]https://github.com/Andy-zhujunwen/FPN-Semantic-segmentation/blob/master/FPN-Seg/testjpg.jpeg
 
 ## Acknowledgment
 [FCN-pytorch](https://github.com/pochih/FCN-pytorch)
